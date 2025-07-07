@@ -1,7 +1,7 @@
 # **🚀 Zabbix Agent Deployment on Arch Linux - Installation Log**
 
 **📅 Date:** July 7, 2025  
-**👨‍💻 Admin:** [Your Name]  
+**👨‍💻 Admin:** Sasha Zimin
 **🖥️ Target Systems:** 2x Arch Linux PCs  
 **🔗 Zabbix Server:** WSL2/Ubuntu (172.28.112.1)  
 
